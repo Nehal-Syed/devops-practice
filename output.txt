@@ -1,0 +1,12 @@
+Desktop
+Documents
+Downloads
+input.sh
+Music
+output.txt
+Pictures
+Public
+run_all.sh
+snap
+Templates
+Videos
